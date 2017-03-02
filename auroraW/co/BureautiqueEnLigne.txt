@@ -1,0 +1,1 @@
+{home:{"url":"co/BureautiqueEnLigne.html","label":"Accueil","source":"ue","className":"home","id":"KxUdWIpPiBictX85gS9Aki"},module:{"children":[{"url":"co/BureautiqueEnLigne_1.html","label":"Objectifs","source":"obj","className":"obj","id":"OYFDbLthF0j0cMjNibh5Ub"}]},tools:{"children":[]}}
